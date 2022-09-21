@@ -5,4 +5,10 @@ Drive link :- https://drive.google.com/drive/folders/1aIrR8813ayQsUvbiHCpK2UwG7P
 
 Video Link :- https://drive.google.com/file/d/1_hxcupqfGI-ZlufJsyMErtQMCIws-8RT/view?usp=sharing
 
+Output Screenshots :-
+
 ![App-1](https://user-images.githubusercontent.com/88450331/191494139-e41b3744-b61d-4c4c-adad-cc7dadf2ea37.jpg)
+
+![App-2](https://user-images.githubusercontent.com/88450331/191494323-b6518c26-2d75-4b85-a655-a4f7df8b53ad.jpg)
+
+![App-3](https://user-images.githubusercontent.com/88450331/191494356-34bfc6b7-b423-4e1b-9d5b-e83ba2e03825.jpg)
